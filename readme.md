@@ -12,6 +12,11 @@ Ce qui implique l'utilisation de scripts ou d'outils pour parcourir les pages we
 6. [XHR](projects/xhr)
 7. [Books to MongoDB](projects/b2mongo)
 8. [FelisCrawler](projects/felisCrawler)
+<!-- 9. [Geo fusion](projects/#) -->
+<!-- 9. [Ariadne](projects/#)   -->
+<!-- 10. [JobScraper](projects/jobScraper) -->
+<!-- 11. [NewsScraper](projects/newsScraper) -->
+<!-- 12. [EcommerceScraper](projects/ecommerceScraper) -->
 
-<br><div align="center"><a href="docs"><img src="assets/ws.png" alt="documentation"></a>
+<!-- <br><div align="center"><a href="docs"><img src="assets/ws.png" alt="documentation"></a> -->
 <!--<kbd>_In progress_</kbd>-->
