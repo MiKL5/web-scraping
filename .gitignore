@@ -6,6 +6,7 @@
 ._docs
 ._projects
 ._readme.md
+.DS_Store
 .vscode/._settings.json
 assets/._atomicWebScraping.png
 assets/._ws.png
@@ -387,3 +388,5 @@ projects/b2mongo/._requirements.txt
 projects/b2mongo/._scrapy.cfg
 projects/b2mongo/._TROUBLESHOOTING.md
 projects/b2mongo/._USAGE.md
+assets/gdprAudit.png
+assets/fs/
