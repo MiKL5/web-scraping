@@ -2,9 +2,11 @@
 Le web scraping est une technique consistant à extraire automatiquement des données à partir de sites web.  
 Ce qui implique l'utilisation de scripts ou d'outils pour parcourir les pages web, analyser leur structure (HTML, DOM) et collecter des informations spécifiques (e.g. texte, image, lien, tableau). ​
 ---
+## Projets avec Request<a href="#"><img align="cetner" src="assets/requests.png" alt="Requests" height="16px"><img align="cetner" src="assets/bs.webp" alt="BeautifulSoup" height="16px"></a>
+1. [Quotes](projects/quotes)
+
 ## Projets avec <a href="#"><img align="cetner" src="https://raw.githubusercontent.com/scrapy/scrapy/master/docs/_static/logo.svg" alt="Scrapy" height="16px"></a>
 
-1. [Quotes](projects/quotes)
 2. [Books](projects/books2scrape)
 3. [Quotes API](projects/quotesApi)
 4. [Bypass](projects/bypass)
@@ -18,5 +20,5 @@ Ce qui implique l'utilisation de scripts ou d'outils pour parcourir les pages we
 <!-- 11. [NewsScraper](projects/newsScraper) -->
 <!-- 12. [EcommerceScraper](projects/ecommerceScraper) -->
 
-<!-- <br><div align="center"><a href="docs"><img src="assets/ws.png" alt="documentation"></a> -->
+<br><div align="center"><a href="docs"><img src="assets/ws.webp" alt="documentation"></a>
 <!--<kbd>_In progress_</kbd>-->
