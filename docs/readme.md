@@ -1,4 +1,4 @@
-# **Web scraping**<a href="../"><img align="right" src="../assets/atomicWebScraping.png" alt="Web scraping" height="64px"></a>
+# **Web scraping**<a href="https://github.com/MiKL5/web-scraping/"><img align="right" src="../assets/atomicWebScraping.png" alt="Web scraping" height="64px"></a>
 Le web scraping est une technique consistant à extraire automatiquement des données à partir de sites web.  
 Ce qui implique l'utilisation de scripts ou d'outils pour parcourir les pages web, analyser leur structure (HTML, DOM) et collecter des informations spécifiques (e.g. texte, image, lien, tableau). ​
 ---
