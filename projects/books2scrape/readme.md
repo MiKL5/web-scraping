@@ -1,4 +1,4 @@
-# Web Scraping de livres sur books.toscrape.com avec Scrapy<a href="../../"><img align="right" src="../../assets/atomicWebScraping.png" alt="Web scraping" height="64px"></a>
+# Web Scraping de livres sur books.toscrape.com avec Scrapy<a href="https://github.com/MiKL5/web-scraping/"><img align="right" src="../../assets/atomicWebScraping.png" alt="Web scraping" height="64px"></a>
 <div align="center">
 
 ![Python](https://img.shields.io/badge/python-3.13-blue?style=flat&logo=python&logoColor=FFD43B) 
