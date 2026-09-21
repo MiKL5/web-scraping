@@ -29,21 +29,20 @@ Le droit des bases de données et les conditions générales d'utilisation des s
 ---
 ## Projets avec Request <a href="#"><img align="cetner" src="assets/requests.png" alt="Requests" height="16px"></a> & <a href="#"><img align="cetner" src="assets/bs.webp" alt="BeautifulSoup" height="16px"></a>
 1. [Quotes](projects/quotes)
-
+2. [TP Scraping — BookHarvest](projects/TPScraping—BookHarvest)
 ## Projets avec <a href="#"><img align="cetner" src="https://raw.githubusercontent.com/scrapy/scrapy/master/docs/_static/logo.svg" alt="Scrapy" height="16px"></a>
-
-2. [Books](projects/books2scrape)
-3. [Quotes API](projects/quotesApi)
-4. [Bypass](projects/bypass)
-5. [LoginQuotes](projects/loginQuotes)
-6. [XHR](projects/xhr)
-7. [Books to MongoDB](projects/b2mongo)
-8. [FelisCrawler](projects/felisCrawler)
-<!-- 9. [Geo fusion](projects/#) -->
-<!-- 9. [Ariadne](projects/#)   -->
-<!-- 10. [JobScraper](projects/jobScraper) -->
-<!-- 11. [NewsScraper](projects/newsScraper) -->
-<!-- 12. [EcommerceScraper](projects/ecommerceScraper) -->
+3. [Books](projects/books2scrape)
+4. [Quotes API](projects/quotesApi)
+5. [Bypass](projects/bypass)
+6. [LoginQuotes](projects/loginQuotes)
+7. [XHR](projects/xhr)
+8. [Books to MongoDB](projects/b2mongo)
+9. [FelisCrawler](projects/felisCrawler)
+<!-- 10. [Geo fusion](projects/#) -->
+<!-- 11. [Ariadne](projects/#)   -->
+<!-- 12. [JobScraper](projects/jobScraper) -->
+<!-- 13. [NewsScraper](projects/newsScraper) -->
+<!-- 14. [EcommerceScraper](projects/ecommerceScraper) -->
 
 <br><div align="center"><a href="docs"><img src="assets/ws.webp" alt="documentation"></a>
 <!--<kbd>_In progress_</kbd>-->

@@ -1,0 +1,4 @@
+requests>=2.32.5
+beautifulsoup4>=4.15.0
+rich>=14.3.3
+pytest>=9.1.1
