@@ -390,3 +390,10 @@ projects/b2mongo/._TROUBLESHOOTING.md
 projects/b2mongo/._USAGE.md
 assets/gdprAudit.png
 assets/fs/
+assets/old/ws.png
+projects/TPScraping—BookHarvest/scraper1.py
+projects/TPScraping—BookHarvest/__pycache__/scraper.cpython-313.pyc
+projects/TPScraping—BookHarvest/__pycache__/test_scraper_check.cpython-313-pytest-9.0.1.pyc
+projects/TPScraping—BookHarvest/__pycache__/test_scraper_full.cpython-313-pytest-9.0.1.pyc
+projects/TPScraping—BookHarvest/books.csv
+projects/TPScraping—BookHarvest/books.json
