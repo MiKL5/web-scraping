@@ -11,7 +11,7 @@ Et, le scraping. Analyser la structure DOM des pages. Il en extrait des données
 
 Dans la plupart des architectures, ces processus fonctionnent en pipeline, pas en silos étanches.
 
-</details></h3><br>
+</details></h3>
 
 <h3><details>
 <summary>⚖️ Cadre légal ➜ ce n'est pas un espace de non-droit</summary><br>
