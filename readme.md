@@ -23,6 +23,35 @@ Le fichier robots.txt n'a pas de valeur juridiquement contraignante en droit fra
 
 Le droit des bases de données et les conditions générales d'utilisation des sites cibles peuvent aussi restreindre la réutilisation des données extraites.
 
+</details></details><br><details><summary>Le web mining désigne l'application de techniques de fouille de données au web.</summary><br>
+
+Il vise à découvrir des connaissances utiles. À partir des contenus, des liens ou des usages du web. C'est une branche du data mining.
+
+Le web mining est divisé en trois catégories.
+
+1. Le _web content mining_.  
+  Il extrait des informations depuis le contenu des pages (Texte, image, audio, vidéo, tableau).
+1. Le _web structure mining_.  
+  Il analyse la structure des hyperliens du web. Il révèle l'organisation et l'importance des pages.
+1. Le _web usage mining_.  
+  Il étudie les journaux de navigation des utilisateurs. Il révèle des schémas de comportement.
+
+<details open><summary>ℹ️ Précision méthodologique ➜ web mining et web scraping désignent deux réalités</summary><br>
+
+Le web scraping extrait les données brutes.  
+Le web mining les analyse ensuite.  
+Le scraping est souvent une étape préalable au mining.
+
+</details><details><summary>⚖️ Cadre légal ➜ le web mining n'échappe pas au RGPD</summary><br>
+
+Le web mining n'est pas illégal. Il est en droit français comme européen soumis à un cadre strict.
+
+Dès que les données minées sont personnelles, le RGPD s'applique. Même si ces données sont publiques. La CNIL exige alors une base légale, souvent l'intérêt légitime.
+
+L'analyse des usages, via cookies ou logs, touche aussi la vie privée. La directive ePrivacy encadre ce traitement. Un consentement est souvent requis.
+
+Le droit des bases de données protège certains contenus minés. Les conditions d'utilisation des sites peuvent aussi limiter leur exploitation.
+
 </details></details></h3>
 
 ---
