@@ -1,20 +1,19 @@
-# **Web scraping**<a href="https://github.com/MiKL5/"><img align="right" src="assets/atomicWebScraping.png" alt="Web scraping" height="64px"></a>
-<h3>Le web scraping désigne l'extraction automatique de données du web. l'extraction repose sur des scripts ou outils dédiés. Dans le but de parcourir les pages, d'analyser leur structure — HTML, DOM — et collecter des informations précises : texte, image, lien, tableau.</h3>
+# **Web scraping & web mining**<a href="https://github.com/MiKL5/"><img align="right" src="assets/atomicWebScraping.png" alt="Web scraping" height="64px"></a>
+<h3><details><summary>Le web scraping désigne l'extraction automatique de données du web.</summary><br>
 
-<h3>La technique s'appuie sur deux processus complémentaires.</h3>
+L'extraction repose sur des scripts ou outils dédiés. Dans le but de parcourir les pages, d'analyser leur structure — HTML, DOM — et collecter des informations précises : texte, image, lien, tableau.
 
-<h3>D'abord, le crawling. Des robots, (spiders ou bots), suivent les hyperliens du web. Découvrant les pages pertinentes.  
-Et, le scraping. Analyser la structure DOM des pages. Il en extrait des données structurées en CSV, JSON, base de données. Ces dernières alimentent l'analyse, l'agrégation ou des systèmes tiers.</h3>
+La technique s'appuie sur deux processus complémentaires.
 
-<h3><details open>
-<summary>ℹ️ Précision méthodologique ➜ la frontière n'est pas étanche</summary><br>
+D'abord, le crawling. Des robots, (spiders ou bots), suivent les hyperliens du web. Découvrant les pages pertinentes.  
+Et, le scraping. Analyser la structure DOM des pages. Il en extrait des données structurées en CSV, JSON, base de données. Ces dernières alimentent l'analyse, l'agrégation ou des systèmes tiers.
+
+<details open><summary>ℹ️ Précision méthodologique ➜ la frontière n'est pas étanche</summary><br>
 
 Dans la plupart des architectures, ces processus fonctionnent en pipeline, pas en silos étanches.
 
-</details></h3>
-
-<h3><details>
-<summary>⚖️ Cadre légal ➜ ce n'est pas un espace de non-droit</summary><br>
+</details>
+<details><summary>⚖️ Cadre légal ➜ ce n'est pas un espace de non-droit</summary><br>
 
 Le web scraping n'est pas illégal, en droit français comme européen. Il est strictement encadré.
 
@@ -24,7 +23,7 @@ Le fichier robots.txt n'a pas de valeur juridiquement contraignante en droit fra
 
 Le droit des bases de données et les conditions générales d'utilisation des sites cibles peuvent aussi restreindre la réutilisation des données extraites.
 
-</ddetails></h3>
+</details></details></h3>
 
 ---
 ## Projets avec Request <a href="#"><img align="cetner" src="assets/requests.png" alt="Requests" height="16px"></a> & <a href="#"><img align="cetner" src="assets/bs.webp" alt="BeautifulSoup" height="16px"></a>
