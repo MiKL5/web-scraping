@@ -397,3 +397,11 @@ projects/TPScraping—BookHarvest/__pycache__/test_scraper_check.cpython-313-pyt
 projects/TPScraping—BookHarvest/__pycache__/test_scraper_full.cpython-313-pytest-9.0.1.pyc
 projects/TPScraping—BookHarvest/books.csv
 projects/TPScraping—BookHarvest/books.json
+projects/TP_BookHarvest—Scrapy Edition/BookHarvest/__pycache__/__init__.cpython-313.pyc
+projects/TP_BookHarvest—Scrapy Edition/BookHarvest/__pycache__/items.cpython-313.pyc
+projects/TP_BookHarvest—Scrapy Edition/BookHarvest/__pycache__/pipelines.cpython-313.pyc
+projects/TP_BookHarvest—Scrapy Edition/BookHarvest/__pycache__/settings.cpython-313.pyc
+projects/TP_BookHarvest—Scrapy Edition/BookHarvest/spiders/__pycache__/__init__.cpython-313.pyc
+projects/TP_BookHarvest—Scrapy Edition/BookHarvest/spiders/__pycache__/books.cpython-313.pyc
+projects/TP_BookHarvest—Scrapy Edition/BookHarvest/books.csv
+projects/TP_BookHarvest—Scrapy Edition/BookHarvest/books.json
