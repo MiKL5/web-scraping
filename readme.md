@@ -1,11 +1,11 @@
 # **Data scraping & data mining**<a href="https://github.com/MiKL5/"><img align="right" src="assets/atomicWebScraping.png" alt="Data scraping" height="64px"></a>
-<h3><details><summary>Le data scraping désigne l'extraction automatique de données du web.</summary><br>
+<h3><details><summary>Le data scraping est l'extraction automatique de données<!--- du web-->.</summary><br>
 
 L'extraction repose sur des scripts ou outils dédiés. Dans le but de parcourir les pages, d'analyser leur structure — HTML, DOM — et collecter des informations précises : texte, image, lien, tableau.
 
 La technique s'appuie sur deux processus complémentaires.
 
-D'abord, le crawling. Des robots, (spiders ou bots), suivent les hyperliens du web. Découvrant les pages pertinentes.  
+D'abord, le crawling. Des robots, (spiders ou bots), suivent les hyperliens du<!-- web-->. Découvrant les pages pertinentes.  
 Et, le scraping. Analyser la structure DOM des pages. Il en extrait des données structurées en CSV, JSON, base de données. Ces dernières alimentent l'analyse, l'agrégation ou des systèmes tiers.
 
 <details open><summary>ℹ️ Précision méthodologique ➜ la frontière n'est pas étanche</summary><br>
@@ -23,7 +23,7 @@ Le fichier robots.txt n'a pas de valeur juridiquement contraignante en droit fra
 
 Le droit des bases de données et les conditions générales d'utilisation des sites cibles peuvent aussi restreindre la réutilisation des données extraites.
 
-</details></details><br><details><summary>Le data mining désigne l'application de techniques de fouille de données du web.</summary><br>
+</details></details><br><details><summary>Le data mining désigne l'application de techniques de fouille de données<!-- du web-->.</summary><br>
 
 Il vise à découvrir des connaissances utiles. À partir des contenus, des liens ou des usages du web. C'est une branche du data mining.
 
@@ -32,7 +32,7 @@ Le data mining est divisé en trois catégories.
 1. Le _web content mining_.  
   Il extrait des informations depuis le contenu des pages (Texte, image, audio, vidéo, tableau).
 1. Le _web structure mining_.  
-  Il analyse la structure des hyperliens du web. Il révèle l'organisation et l'importance des pages.
+  Il analyse la structure des hyperliens<!-- du web-->. Il révèle l'organisation et l'importance des pages.
 1. Le _web usage mining_.  
   Il étudie les journaux de navigation des utilisateurs. Il révèle des schémas de comportement.
 
